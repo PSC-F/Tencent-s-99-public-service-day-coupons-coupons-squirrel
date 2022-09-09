@@ -5,6 +5,7 @@
 * 宣传
 * star本项目
 * 参加收益资金核算监管
+* 勘误反馈
 ## 技术实现与收益
 * 接口提供来自云瞻开放平台、收益比例透明可在其官网查阅、依托公众号做为统一入口
 ## 数据公开
@@ -21,10 +22,14 @@
 
 # 计划支持腾讯公益项目 (月捐)
 ## 贫困孤儿助养
-* 1485元，为一名孤儿提供一年的生活和学习费用。https://gongyi.qq.com/loveplan/wangzhuchengzhang.htm
+* 1485元，为一名孤儿提供一年的生活和学习费用。
+* https://gongyi.qq.com/loveplan/wangzhuchengzhang.htm
 ## 壹基金温暖包
-* 您的每一份爱心，都能帮助到一名受灾地区的困境儿童。 https://gongyi.qq.com/loveplan/wangyuantongmeng.htm
+* 您的每一份爱心，都能帮助到一名受灾地区的困境儿童。 
+* https://gongyi.qq.com/loveplan/wangyuantongmeng.htm
 ## 先心儿童的“心”生
-* 每人10元，1000人就能拯救一个先天性心脏病孩子的生命。https://gongyi.qq.com/loveplan/wangjiutongxin.htm
+* 每人10元，1000人就能拯救一个先天性心脏病孩子的生命。
+* https://gongyi.qq.com/loveplan/wangjiutongxin.htm
 ## 免费午餐 小善大爱 
-* 免费午餐 小善大爱”项目是中国社会福利基金会免费午餐基金与腾讯公益慈善基金会共同发起的一项全民公益活动 https://gongyi.qq.com/loveplan/wangjujianai.htm
+* 免费午餐 小善大爱”项目是中国社会福利基金会免费午餐基金与腾讯公益慈善基金会共同发起的一项全民公益活动
+* https://gongyi.qq.com/loveplan/wangjujianai.htm
