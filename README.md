@@ -9,4 +9,4 @@
 ## 公众号地址
 ![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/08/0d891644-065c-40e4-825a-8ec35df90d8a.jpg)
 ## 微信群组
-![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/11/09f88895-9b76-44e9-9c10-b6d60edc568d.jpg)
+![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/14/4d285e04-e966-4a61-bf62-c297d86cb816.jpg)
