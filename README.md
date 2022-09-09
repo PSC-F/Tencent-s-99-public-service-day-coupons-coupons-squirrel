@@ -17,3 +17,13 @@
 ![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/08/0d891644-065c-40e4-825a-8ec35df90d8a.jpg)
 ## 微信群组
 ![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/17/56688a05-db7b-4a05-a847-2d9de97f7f2f.png)
+
+# 计划支持腾讯公益项目清单-月捐
+## 贫困孤儿助养,
+* 1485元，为一名孤儿提供一年的生活和学习费用。https://gongyi.qq.com/loveplan/wangzhuchengzhang.htm
+## 壹基金温暖包
+* 您的每一份爱心，都能帮助到一名受灾地区的困境儿童。 https://gongyi.qq.com/loveplan/wangyuantongmeng.htm
+## 先心儿童的“心”生
+* 每人10元，1000人就能拯救一个先天性心脏病孩子的生命。https://gongyi.qq.com/loveplan/wangjiutongxin.htm
+## 免费午餐 小善大爱 
+* 免费午餐 小善大爱”项目是中国社会福利基金会免费午餐基金与腾讯公益慈善基金会共同发起的一项全民公益活动 https://gongyi.qq.com/loveplan/wangjujianai.htm
