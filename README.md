@@ -6,3 +6,7 @@
 * 本项目会在每月收益结算后公布所有收益明细、以及公布捐助公益项目名称、跟进捐助项目情况
 ## 如何保证
 * 依托腾讯公益的区块链溯源能力保证到每一笔资金得到回溯、增加公益信心
+## 公众号地址
+![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/08/0d891644-065c-40e4-825a-8ec35df90d8a.jpg)
+## 微信群组
+![image](https://pic.stackoverflow.wiki/uploadImages/124/89/48/183/2022/09/09/20/11/09f88895-9b76-44e9-9c10-b6d60edc568d.jpg)
