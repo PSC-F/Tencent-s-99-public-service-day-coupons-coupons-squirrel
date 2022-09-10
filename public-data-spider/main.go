@@ -13,13 +13,12 @@ var client http.Client
 
 const (
 	LOGIN_URL   = "https://alliance.yunzhanxinxi.com/login"
-	ContentType = "application/x-www-form-urlencoded"
+	CONTENT_TYPE = "application/x-www-form-urlencoded"
 )
 
 func main() {
 	login()
 	getDashBoard()
-
 }
 
 // 获取后台看板数据
@@ -28,7 +27,7 @@ func getDashBoard() {
 	url := "https://alliance.yunzhanxinxi.com/order/list/statistics-info"
 	contentType := "application/x-www-form-urlencoded"
 	bodyStr := "channelId=127223&promotionId=&startTime=" + l.String() + "&endTime=" + c.String() + "&orderType="
-	t, _ := client.Post(url, contentType, strings.NewReader(bodyStr)) // 在这里登陆
+	t, _ := client.Post(url, contentType, strings.NewReader(bodyStr)) 
 	defer t.Body.Close()
 	body, _ := ioutil.ReadAll(t.Body)
 	fmt.Println(string(body))
@@ -51,7 +50,7 @@ func login() {
 		panic(err)
 	}
 	client.Jar = jar
-	t, _ := client.Post(LOGIN_URL, ContentType, strings.NewReader(b))
+	t, _ := client.Post(LOGIN_URL, CONTENT_TYPE, strings.NewReader(b))
 	body, _ := ioutil.ReadAll(t.Body)
 	fmt.Println(string(body))
 }
