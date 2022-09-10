@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=devie-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>松鼠公益</title>
+</head>
+<body>
+<div >
+    <h1>❀松鼠公益❤</h1>
+    <h5>数据公开明细（实时更新）</h5>
+    <p> 一、有效点击次数: {{.Data.Statistics.ClickTimes}} 次<p>
+    <p> 二、可捐助金额预估: {{.Data.Statistics.EstimateAmount}} 元<p>
+    <p> 三、下单数量: {{.Data.Statistics.PayNum}} 笔<p>
+    <ul>
+    {{range $val := .Data.List}}
+         <li>日期: {{$val.StatisticsDate}} 捐助金额: {{$val.SettleAmount}} 元</li>
+    {{end}}
+    </ul>
+</div>
+
+</body>
+<html>
